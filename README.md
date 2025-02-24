@@ -153,4 +153,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
   * * Setting: A hospital
     * * Plot: Struggling to understand human emotions
       * * Theme: Human connection
-        * * Style: Realistic and emotionally-driven 
+        * * Style: Realistic and emotionally-driven.
