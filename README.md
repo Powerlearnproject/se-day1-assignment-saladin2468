@@ -147,3 +147,11 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 * Unlocking Potential: By understanding prompt engineering techniques, you can unlock the full potential of AI models, pushing them to generate more sophisticated and nuanced outputs.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+* Vague Prompt: "Write a story about a robot." This prompt is vague because it lacks specific details about the story's setting, characters, plot, or theme. It leaves the AI model with too much freedom, which could lead to an unfocused or uninteresting story.
+* Improved Prompt: "Write a short story about a sentient robot who is struggling to understand human emotions. The robot is tasked with working in a hospital, interacting with patients and their families. The story should be written in a realistic and emotionally-driven style."
+* This improved prompt is more effective because it provides clear and specific details about the story's elements:
+* * Character: A sentient robot
+  * * Setting: A hospital
+    * * Plot: Struggling to understand human emotions
+      * * Theme: Human connection
+        * * Style: Realistic and emotionally-driven 
